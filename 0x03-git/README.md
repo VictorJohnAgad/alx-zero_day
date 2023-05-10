@@ -1,2 +1,4 @@
-Create a new directory called 0x03-git
-I_also_created_sub_dirs
+created alx-zero_day task
+1. Repo-session
+2. Coding fury road
+3. Collaboration is the base of a company
